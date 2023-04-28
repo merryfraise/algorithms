@@ -12,6 +12,14 @@ const [N, ...input] = require('fs')
   .trim()
   .split('\n');
 
+/* pseudocode
+   1. 입력값의 공백을 기준으로 이름과 상태로 분리 (Baha enter => ['Baha', 'enter'])
+   2-1. Object: 분리한 이름과 상태를 각각 키와 값으로 사용
+   2-2. Set: 상태의 값에 따라 Set에 이름을 추가하거나 삭제
+   3-1. Object: 값이 'enter'인 요소만 분리하여 배열 생성한 뒤 내림차순 출력
+   3-2. Set: 전체 요소를 배열로 전환한 뒤 내림차순 출력
+*/
+
 /* Use Object */
 const worker = {};
 
@@ -25,11 +33,7 @@ const entered = name.filter((key) => worker[key] === 'enter');
 
 entered.sort().reverse();
 
-for (const name of entered) {
-  console.log(name);
-}
-
-// 시간 초과로 정답 수정
+console.log(entered.join('\n'));
 
 /* Use Set */
 const worker = new Set();
