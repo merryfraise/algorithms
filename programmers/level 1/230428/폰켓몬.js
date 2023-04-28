@@ -18,3 +18,11 @@ function solution(nums) {
 
   return pick < count ? pick : count;
 }
+
+/* Use Set */
+function ponkemon(nums) {
+  const pick = nums.length / 2;
+  const species = new Set(nums);
+
+  return pick < species.size ? pick : species.size;
+}
