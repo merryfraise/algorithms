@@ -28,6 +28,7 @@ entered.sort().reverse();
 for (const name of entered) {
   console.log(name);
 }
+
 // 시간 초과로 정답 수정
 
 /* Use Set */
