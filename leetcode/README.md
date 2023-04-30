@@ -3,7 +3,7 @@
 ## Difficulty
 
 ### Easy
-- [Two Sum](https://github.com/merryfraise/algorithms/blob/main/leetcode/easy/230430/Two%20Sum.js)
+- [1 Two Sum](https://github.com/merryfraise/algorithms/blob/main/leetcode/easy/230430/Two%20Sum.js)
 
 ### Medium
 
@@ -12,7 +12,7 @@
 ## Topics
 
 ### Array
-- [Two Sum](https://github.com/merryfraise/algorithms/blob/main/leetcode/easy/230430/Two%20Sum.js)
+- [1 Two Sum](https://github.com/merryfraise/algorithms/blob/main/leetcode/easy/230430/Two%20Sum.js)
 
 ### Hash Table
-- [Two Sum](https://github.com/merryfraise/algorithms/blob/main/leetcode/easy/230430/Two%20Sum.js)
+- [1 Two Sum](https://github.com/merryfraise/algorithms/blob/main/leetcode/easy/230430/Two%20Sum.js)
