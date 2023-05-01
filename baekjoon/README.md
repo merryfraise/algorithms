@@ -18,10 +18,13 @@
 - [1001 A-B](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/A-B.js)
 - [1008 A÷B](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/A%C3%B7B.js)
 - [2557 Hello World](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/Hello%20World.js)
+- [10171 고양이](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230501/%EA%B3%A0%EC%96%91%EC%9D%B4.js)
+- [10172 개](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230501/%EA%B0%9C.js)
 - [10430 나머지](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/%EB%82%98%EB%A8%B8%EC%A7%80.js)
 - [10869 사칙연산](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0.js)
 - [10926 ??!](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/%3F%3F!.js)
 - [10998 A×B](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/A%C3%97B.js)
+- [11382 꼬마 정민](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230501/%EA%BC%AC%EB%A7%88%20%EC%A0%95%EB%AF%BC.js)
 - [18108 1998년생인 내가 태국에서는 2541년생?!](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/1998%EB%85%84%EC%83%9D%EC%9D%B8%20%EB%82%B4%EA%B0%80%20%ED%83%9C%EA%B5%AD%EC%97%90%EC%84%9C%EB%8A%94%202541%EB%85%84%EC%83%9D%3F!.js)
 
 ### Silver
@@ -96,6 +99,7 @@
 - [10430 나머지](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/%EB%82%98%EB%A8%B8%EC%A7%80.js)
 - [10869 사칙연산](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0.js)
 - [10998 A×B](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/A%C3%97B.js)
+- [11382 꼬마 정민](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230501/%EA%BC%AC%EB%A7%88%20%EC%A0%95%EB%AF%BC.js)
 - [18108 1998년생인 내가 태국에서는 2541년생?!](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/1998%EB%85%84%EC%83%9D%EC%9D%B8%20%EB%82%B4%EA%B0%80%20%ED%83%9C%EA%B5%AD%EC%97%90%EC%84%9C%EB%8A%94%202541%EB%85%84%EC%83%9D%3F!.js)
 
 ### 구현
@@ -103,10 +107,13 @@
 - [1001 A-B](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/A-B.js)
 - [1008 A÷B](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/A%C3%B7B.js)
 - [2557 Hello World](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/Hello%20World.js)
+- [10171 고양이](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230501/%EA%B3%A0%EC%96%91%EC%9D%B4.js)
+- [10172 개](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230501/%EA%B0%9C.js)
 - [10430 나머지](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/%EB%82%98%EB%A8%B8%EC%A7%80.js)
 - [10869 사칙연산](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0.js)
 - [10926 ??!](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/%3F%3F!.js)
 - [10998 A×B](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/A%C3%97B.js)
+- [11382 꼬마 정민](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230501/%EA%BC%AC%EB%A7%88%20%EC%A0%95%EB%AF%BC.js)
 
 ### 자료 구조
 - [7785 회사에 있는 사람](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230428/%ED%9A%8C%EC%82%AC%EC%97%90%20%EC%9E%88%EB%8A%94%20%EC%82%AC%EB%9E%8C.js)
@@ -122,6 +129,7 @@
 - [10430 나머지](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/%EB%82%98%EB%A8%B8%EC%A7%80.js)
 - [10869 사칙연산](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0.js)
 - [10998 A×B](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/A%C3%97B.js)
+- [11382 꼬마 정민](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230501/%EA%BC%AC%EB%A7%88%20%EC%A0%95%EB%AF%BC.js)
 - [18108 1998년생인 내가 태국에서는 2541년생?!](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/1998%EB%85%84%EC%83%9D%EC%9D%B8%20%EB%82%B4%EA%B0%80%20%ED%83%9C%EA%B5%AD%EC%97%90%EC%84%9C%EB%8A%94%202541%EB%85%84%EC%83%9D%3F!.js)
 
 ### 해시를 사용한 집합과 맵
