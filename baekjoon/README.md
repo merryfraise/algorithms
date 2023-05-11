@@ -1,6 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/121331811/231955636-bb51ef92-28bf-4d96-ad9d-b3656d14c056.png" height="48" /> BAEKJOON ONLINE JUDGE
 
-## 티어
+## 🍑 티어
 
 ### Bronze
 
@@ -45,6 +45,7 @@
 
 #### V
 - [7785 회사에 있는 사람](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230428/%ED%9A%8C%EC%82%AC%EC%97%90%20%EC%9E%88%EB%8A%94%20%EC%82%AC%EB%9E%8C.js)
+- [24090 알고리즘 수업 - 퀵 정렬 1 ❌](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230511/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%ED%80%B5%20%EC%A0%95%EB%A0%AC%201.js)
 
 ### Gold
 
@@ -94,7 +95,7 @@
 
 #### V
 
-## 분류
+## 🍑 분류
 
 ### 수학
 - [1000 A+B](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/A%2BB.js)
@@ -125,10 +126,14 @@
 - [10998 A×B](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/A%C3%97B.js)
 - [11382 꼬마 정민](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230501/%EA%BC%AC%EB%A7%88%20%EC%A0%95%EB%AF%BC.js)
 - [14681 사분면 고르기](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230501/%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.js)
+- [24090 알고리즘 수업 - 퀵 정렬 1 ❌](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230511/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%ED%80%B5%20%EC%A0%95%EB%A0%AC%201.js)
 
 ### 자료 구조
 - [7785 회사에 있는 사람](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230428/%ED%9A%8C%EC%82%AC%EC%97%90%20%EC%9E%88%EB%8A%94%20%EC%82%AC%EB%9E%8C.js)
 - [17219 비밀번호 찾기](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230430/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%20%EC%B0%BE%EA%B8%B0.js)
+
+### 정렬
+- [24090 알고리즘 수업 - 퀵 정렬 1 ❌](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230511/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%ED%80%B5%20%EC%A0%95%EB%A0%AC%201.js)
 
 ### 기하학
 - [14681 사분면 고르기](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230501/%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.js)
