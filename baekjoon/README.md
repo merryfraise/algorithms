@@ -37,6 +37,7 @@
 #### I
 
 #### II
+- [18870 좌표 압축](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230512/%EC%A2%8C%ED%91%9C%20%EC%95%95%EC%B6%95.js)
 
 #### III
 
@@ -133,6 +134,7 @@
 - [17219 비밀번호 찾기](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230430/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%20%EC%B0%BE%EA%B8%B0.js)
 
 ### 정렬
+- [18870 좌표 압축](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230512/%EC%A2%8C%ED%91%9C%20%EC%95%95%EC%B6%95.js)
 - [24090 알고리즘 수업 - 퀵 정렬 1 ❌](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230511/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%ED%80%B5%20%EC%A0%95%EB%A0%AC%201.js)
 
 ### 기하학
@@ -156,3 +158,6 @@
 ### 해시를 사용한 집합과 맵
 - [7785 회사에 있는 사람](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230428/%ED%9A%8C%EC%82%AC%EC%97%90%20%EC%9E%88%EB%8A%94%20%EC%82%AC%EB%9E%8C.js)
 - [17219 비밀번호 찾기](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230430/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%20%EC%B0%BE%EA%B8%B0.js)
+
+### 값 / 좌표 압축
+- [18870 좌표 압축](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230512/%EC%A2%8C%ED%91%9C%20%EC%95%95%EC%B6%95.js)
