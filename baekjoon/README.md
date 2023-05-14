@@ -13,6 +13,8 @@
 - [2884 알람 시계](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230501/%EC%95%8C%EB%9E%8C%20%EC%8B%9C%EA%B3%84.js)
 
 #### IV
+- [10773 제로](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230514/%EC%A0%9C%EB%A1%9C.js)
+- [10828 스택](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230514/%EC%8A%A4%ED%83%9D.js)
 
 #### V
 - [1000 A+B](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/A%2BB.js)
@@ -122,6 +124,7 @@
 - [10171 고양이](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230501/%EA%B3%A0%EC%96%91%EC%9D%B4.js)
 - [10172 개](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230501/%EA%B0%9C.js)
 - [10430 나머지](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/%EB%82%98%EB%A8%B8%EC%A7%80.js)
+- [10773 제로](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230514/%EC%A0%9C%EB%A1%9C.js)
 - [10869 사칙연산](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0.js)
 - [10926 ??!](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/%3F%3F!.js)
 - [10998 A×B](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/A%C3%97B.js)
@@ -131,6 +134,8 @@
 
 ### 자료 구조
 - [7785 회사에 있는 사람](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230428/%ED%9A%8C%EC%82%AC%EC%97%90%20%EC%9E%88%EB%8A%94%20%EC%82%AC%EB%9E%8C.js)
+- [10773 제로](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230514/%EC%A0%9C%EB%A1%9C.js)
+- [10828 스택](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230514/%EC%8A%A4%ED%83%9D.js)
 - [17219 비밀번호 찾기](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230430/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%20%EC%B0%BE%EA%B8%B0.js)
 
 ### 정렬
@@ -158,6 +163,10 @@
 ### 해시를 사용한 집합과 맵
 - [7785 회사에 있는 사람](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230428/%ED%9A%8C%EC%82%AC%EC%97%90%20%EC%9E%88%EB%8A%94%20%EC%82%AC%EB%9E%8C.js)
 - [17219 비밀번호 찾기](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230430/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%20%EC%B0%BE%EA%B8%B0.js)
+
+### 스택
+- [10773 제로](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230514/%EC%A0%9C%EB%A1%9C.js)
+- [10828 스택](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230514/%EC%8A%A4%ED%83%9D.js)
 
 ### 값 / 좌표 압축
 - [18870 좌표 압축](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230512/%EC%A2%8C%ED%91%9C%20%EC%95%95%EC%B6%95.js)
