@@ -42,6 +42,7 @@
 - [18870 좌표 압축](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230512/%EC%A2%8C%ED%91%9C%20%EC%95%95%EC%B6%95.js)
 
 #### III
+- [1966 프린터 큐](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230518/%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.js)
 
 #### IV
 - [1158 요세푸스 문제](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230516/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C.js)
@@ -122,6 +123,7 @@
 - [1008 A÷B](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/A%C3%B7B.js)
 - [1158 요세푸스 문제](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230516/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C.js)
 - [1330 두 수 비교하기](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230501/%EB%91%90%20%EC%88%98%20%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.js)
+- [1966 프린터 큐](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230518/%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.js)
 - [2557 Hello World](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/Hello%20World.js)
 - [2753 윤년](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230501/%EC%9C%A4%EB%85%84.js)
 - [9498 시험 성적](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230501/%EC%8B%9C%ED%97%98%20%EC%84%B1%EC%A0%81.js)
@@ -140,6 +142,7 @@
 
 ### 자료 구조
 - [1158 요세푸스 문제](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230516/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C.js)
+- [1966 프린터 큐](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230518/%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.js)
 - [7785 회사에 있는 사람](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230428/%ED%9A%8C%EC%82%AC%EC%97%90%20%EC%9E%88%EB%8A%94%20%EC%82%AC%EB%9E%8C.js)
 - [10773 제로](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230514/%EC%A0%9C%EB%A1%9C.js)
 - [10828 스택](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230514/%EC%8A%A4%ED%83%9D.js)
@@ -170,6 +173,7 @@
 - [18108 1998년생인 내가 태국에서는 2541년생?!](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230429/1998%EB%85%84%EC%83%9D%EC%9D%B8%20%EB%82%B4%EA%B0%80%20%ED%83%9C%EA%B5%AD%EC%97%90%EC%84%9C%EB%8A%94%202541%EB%85%84%EC%83%9D%3F!.js)
 
 ### 시뮬레이션
+- [1966 프린터 큐](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230518/%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.js)
 - [12873 기념품](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230517/%EA%B8%B0%EB%85%90%ED%92%88.js)
 
 ### 해시를 사용한 집합과 맵
@@ -185,5 +189,6 @@
 
 ### 큐
 - [1158 요세푸스 문제](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230516/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C.js)
+- [1966 프린터 큐](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230518/%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.js)
 - [11866 요세푸스 문제 0](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230516/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C%200.js)
 - [12873 기념품](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230517/%EA%B8%B0%EB%85%90%ED%92%88.js)
