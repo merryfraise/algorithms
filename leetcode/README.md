@@ -13,6 +13,7 @@
 - [34 Find First and Last Position of Element in Sorted Array](https://github.com/merryfraise/algorithms/blob/main/leetcode/medium/230503/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.js)
 - [75 Sort Colors](https://github.com/merryfraise/algorithms/blob/main/leetcode/medium/230511/Sort%20Colors.js)
 - [912 Sort an Array](https://github.com/merryfraise/algorithms/blob/main/leetcode/medium/230511/Sort%20an%20Array.js)
+- [950 Reveal Cards In Increasing Order](https://github.com/merryfraise/algorithms/blob/main/leetcode/medium/230519/Reveal%20Cards%20In%20Increasing%20Order.js)
 
 ### Hard
 
@@ -24,6 +25,7 @@
 - [75 Sort Colors](https://github.com/merryfraise/algorithms/blob/main/leetcode/medium/230511/Sort%20Colors.js)
 - [744 Find Smallest Letter Greater Than Target](https://github.com/merryfraise/algorithms/blob/main/leetcode/easy/230501/Find%20Smallest%20Letter%20Greater%20Than%20Target.js)
 - [912 Sort an Array](https://github.com/merryfraise/algorithms/blob/main/leetcode/medium/230511/Sort%20an%20Array.js)
+- [950 Reveal Cards In Increasing Order](https://github.com/merryfraise/algorithms/blob/main/leetcode/medium/230519/Reveal%20Cards%20In%20Increasing%20Order.js)
 - [1122 Relative Sort Array](https://github.com/merryfraise/algorithms/blob/main/leetcode/easy/230510/Relative%20Sort%20Array.js)
 
 ### String
@@ -36,6 +38,7 @@
 ### Sorting
 - [75 Sort Colors](https://github.com/merryfraise/algorithms/blob/main/leetcode/medium/230511/Sort%20Colors.js)
 - [912 Sort an Array](https://github.com/merryfraise/algorithms/blob/main/leetcode/medium/230511/Sort%20an%20Array.js)
+- [950 Reveal Cards In Increasing Order](https://github.com/merryfraise/algorithms/blob/main/leetcode/medium/230519/Reveal%20Cards%20In%20Increasing%20Order.js)
 - [1122 Relative Sort Array](https://github.com/merryfraise/algorithms/blob/main/leetcode/easy/230510/Relative%20Sort%20Array.js)
 
 ### Binary Search
@@ -52,8 +55,14 @@
 ### Stack
 - [20 Valid Parentheses](https://github.com/merryfraise/algorithms/blob/main/leetcode/easy/230514/Valid%20Parentheses.js)
 
+### Simulation
+- [950 Reveal Cards In Increasing Order](https://github.com/merryfraise/algorithms/blob/main/leetcode/medium/230519/Reveal%20Cards%20In%20Increasing%20Order.js)
+
 ### Divide and Conquer
 - [912 Sort an Array](https://github.com/merryfraise/algorithms/blob/main/leetcode/medium/230511/Sort%20an%20Array.js)
+
+### Queue
+- [950 Reveal Cards In Increasing Order](https://github.com/merryfraise/algorithms/blob/main/leetcode/medium/230519/Reveal%20Cards%20In%20Increasing%20Order.js)
 
 ### Merge Sort
 - [912 Sort an Array](https://github.com/merryfraise/algorithms/blob/main/leetcode/medium/230511/Sort%20an%20Array.js)
