@@ -6,7 +6,7 @@
  * Algorithm: 그리디 알고리즘
  */
 
-const PAY = Number(require('fs').readFileSync('5585.txt').toString().trim());
+const PAY = Number(require('fs').readFileSync('/dev/stdin').toString().trim());
 
 /* pseudocode
    1. 잔돈은 1000에서 지불할 돈인 PAY를 뺀 값 (change)
