@@ -15,6 +15,7 @@
 - [42578 의상](https://github.com/merryfraise/algorithms/blob/main/programmers/level%202/230430/%EC%9D%98%EC%83%81.js)
 - [42746 가장 큰 수](https://github.com/merryfraise/algorithms/blob/main/programmers/level%202/230512/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.js)
 - [42842 카펫](https://github.com/merryfraise/algorithms/blob/main/programmers/level%202/230524/%EC%B9%B4%ED%8E%AB.js)
+- [42883 큰 수 만들기](https://github.com/merryfraise/algorithms/blob/main/programmers/level%202/230526/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)
 - [42885 구명보트](https://github.com/merryfraise/algorithms/blob/main/programmers/level%202/230524/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.js)
 
 ## 🍑 주제
@@ -36,4 +37,5 @@
 - [86491 최소직사각형](https://github.com/merryfraise/algorithms/blob/main/programmers/level%201/230522/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.js)
 
 ### 탐욕법
+- [42883 큰 수 만들기](https://github.com/merryfraise/algorithms/blob/main/programmers/level%202/230526/%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.js)
 - [42885 구명보트](https://github.com/merryfraise/algorithms/blob/main/programmers/level%202/230524/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.js)
