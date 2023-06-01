@@ -3,7 +3,7 @@
  * https://www.acmicpc.net/problem/18352
  * Problem Number: 18352
  * Level: Silver II
- * Algorithm: 그래프 이론 / 그래프 탐색 / 너비 우선 탐색 / 테이크스트라
+ * Algorithm: 그래프 이론 / 그래프 탐색 / 너비 우선 탐색 / 데이크스트라
  */
 
 const [inform, ...input] = require('fs')
