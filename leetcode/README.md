@@ -15,6 +15,7 @@
 - [75 Sort Colors](https://github.com/merryfraise/algorithms/blob/main/leetcode/medium/230511/Sort%20Colors.js)
 - [912 Sort an Array](https://github.com/merryfraise/algorithms/blob/main/leetcode/medium/230511/Sort%20an%20Array.js)
 - [950 Reveal Cards In Increasing Order](https://github.com/merryfraise/algorithms/blob/main/leetcode/medium/230519/Reveal%20Cards%20In%20Increasing%20Order.js)
+- [1464 Maximum Product of Two Elements in an Array](https://github.com/merryfraise/algorithms/blob/main/leetcode/easy/230602/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.js)
 
 ### Hard
 
@@ -29,6 +30,7 @@
 - [912 Sort an Array](https://github.com/merryfraise/algorithms/blob/main/leetcode/medium/230511/Sort%20an%20Array.js)
 - [950 Reveal Cards In Increasing Order](https://github.com/merryfraise/algorithms/blob/main/leetcode/medium/230519/Reveal%20Cards%20In%20Increasing%20Order.js)
 - [1122 Relative Sort Array](https://github.com/merryfraise/algorithms/blob/main/leetcode/easy/230510/Relative%20Sort%20Array.js)
+- [1464 Maximum Product of Two Elements in an Array](https://github.com/merryfraise/algorithms/blob/main/leetcode/easy/230602/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.js)
 
 ### String
 - [20 Valid Parentheses](https://github.com/merryfraise/algorithms/blob/main/leetcode/easy/230514/Valid%20Parentheses.js)
@@ -42,6 +44,7 @@
 - [912 Sort an Array](https://github.com/merryfraise/algorithms/blob/main/leetcode/medium/230511/Sort%20an%20Array.js)
 - [950 Reveal Cards In Increasing Order](https://github.com/merryfraise/algorithms/blob/main/leetcode/medium/230519/Reveal%20Cards%20In%20Increasing%20Order.js)
 - [1122 Relative Sort Array](https://github.com/merryfraise/algorithms/blob/main/leetcode/easy/230510/Relative%20Sort%20Array.js)
+- [1464 Maximum Product of Two Elements in an Array](https://github.com/merryfraise/algorithms/blob/main/leetcode/easy/230602/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.js)
 
 ### Binary Search
 - [35 Search Insert Positon](https://github.com/merryfraise/algorithms/blob/main/leetcode/easy/230501/Search%20Insert%20Position.js)
@@ -57,6 +60,7 @@
 
 ### Heap (Priority Queue)
 - [912 Sort an Array](https://github.com/merryfraise/algorithms/blob/main/leetcode/medium/230511/Sort%20an%20Array.js)
+- [1464 Maximum Product of Two Elements in an Array](https://github.com/merryfraise/algorithms/blob/main/leetcode/easy/230602/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.js)
 
 ### Stack
 - [20 Valid Parentheses](https://github.com/merryfraise/algorithms/blob/main/leetcode/easy/230514/Valid%20Parentheses.js)
