@@ -45,6 +45,7 @@
 - [11279 최대 힙](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230531/%EC%B5%9C%EB%8C%80%20%ED%9E%99.js)
 - [18352 특정 거리의 도시 찾기](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230601/%ED%8A%B9%EC%A0%95%20%EA%B1%B0%EB%A6%AC%EC%9D%98%20%EB%8F%84%EC%8B%9C%20%EC%B0%BE%EA%B8%B0.js)
 - [18870 좌표 압축](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230512/%EC%A2%8C%ED%91%9C%20%EC%95%95%EC%B6%95.js)
+- [24444 알고리즘 수업 - 너비 우선 탐색 1](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230612/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%201.js)
 
 #### III
 - [1966 프린터 큐](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230518/%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.js)
@@ -166,6 +167,7 @@
 - [1697 숨바꼭질](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230601/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.js)
 - [9372 상근이의 여행](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230601/%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%20%EC%97%AC%ED%96%89.js)
 - [18352 특정 거리의 도시 찾기](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230601/%ED%8A%B9%EC%A0%95%20%EA%B1%B0%EB%A6%AC%EC%9D%98%20%EB%8F%84%EC%8B%9C%20%EC%B0%BE%EA%B8%B0.js)
+- [24444 알고리즘 수업 - 너비 우선 탐색 1](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230612/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%201.js)
 
 ### 그리디 알고리즘
 - [5585 거스름돈](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230523/%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.js)
@@ -177,11 +179,13 @@
 ### 그래프 탐색
 - [1697 숨바꼭질](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230601/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.js)
 - [18352 특정 거리의 도시 찾기](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230601/%ED%8A%B9%EC%A0%95%20%EA%B1%B0%EB%A6%AC%EC%9D%98%20%EB%8F%84%EC%8B%9C%20%EC%B0%BE%EA%B8%B0.js)
+- [24444 알고리즘 수업 - 너비 우선 탐색 1](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230612/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%201.js)
 
 ### 정렬
 - [11399 ATM](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230523/ATM.js)
 - [18870 좌표 압축](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230512/%EC%A2%8C%ED%91%9C%20%EC%95%95%EC%B6%95.js)
 - [24090 알고리즘 수업 - 퀵 정렬 1 ❌](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230511/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%ED%80%B5%20%EC%A0%95%EB%A0%AC%201.js)
+- [24444 알고리즘 수업 - 너비 우선 탐색 1](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230612/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%201.js)
 
 ### 기하학
 - [14681 사분면 고르기](https://github.com/merryfraise/algorithms/blob/main/baekjoon/bronze/230501/%EC%82%AC%EB%B6%84%EB%A9%B4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.js)
@@ -207,6 +211,7 @@
 ### 너비 우선 탐색
 - [1697 숨바꼭질](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230601/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.js)
 - [18352 특정 거리의 도시 찾기](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230601/%ED%8A%B9%EC%A0%95%20%EA%B1%B0%EB%A6%AC%EC%9D%98%20%EB%8F%84%EC%8B%9C%20%EC%B0%BE%EA%B8%B0.js)
+- [24444 알고리즘 수업 - 너비 우선 탐색 1](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230612/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%88%98%EC%97%85%20-%20%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%201.js)
 
 ### 시뮬레이션
 - [1966 프린터 큐](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230518/%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.js)
