@@ -54,6 +54,7 @@
 #### III
 - [1003 피보나치 함수](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230619/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%ED%95%A8%EC%88%98.js)
 - [1966 프린터 큐](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230518/%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90.js)
+- [9095 1, 2, 3 더하기](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230621/1%2C%202%2C%203%20%EB%8D%94%ED%95%98%EA%B8%B0.js)
 
 #### IV
 - [1158 요세푸스 문제](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230516/%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%20%EB%AC%B8%EC%A0%9C.js)
@@ -184,6 +185,7 @@
 
 ### 다이나믹 프로그래밍
 - [1003 피보나치 함수](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230619/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%ED%95%A8%EC%88%98.js)
+- [9095 1, 2, 3 더하기](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230621/1%2C%202%2C%203%20%EB%8D%94%ED%95%98%EA%B8%B0.js)
 - [11060 점프 점프](https://github.com/merryfraise/algorithms/blob/main/baekjoon/silver/230616/%EC%A0%90%ED%94%84%20%EC%A0%90%ED%94%84.js)
 
 ### 데이크스트라
