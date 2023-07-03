@@ -2,8 +2,8 @@
  * Programmers
  * https://school.programmers.co.kr/learn/courses/30/lessons/86051
  * Problem Number: 86051
- * Level: 월간 코드 챌린지 시즌3
- * Algorithm: 연습문제
+ * Level: 1
+ * Algorithm: 월간 코드 챌린지 시즌3
  */
 
 /* pseudocode
